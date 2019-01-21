@@ -1,0 +1,5 @@
+21.01.2019 17:27:13
+Error (1366) Incorrect integer value: '' for column 'id' at row 1
+INSERT INTO ok_variants SET sku='123', id='', name='123', price='123', compare_price='123', currency_id='2', weight='123', stock='123', units='123', feed='0', product_id='110'
+----------------------
+
